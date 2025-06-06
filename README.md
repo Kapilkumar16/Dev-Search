@@ -21,7 +21,7 @@ Backend: Django, Django REST Framework
 Frontend: HTML, CSS, JavaScript (with optional Tailwind/Bootstrap)
 
 Database: SQLite (dev) / PostgreSQL (prod)
-![Devsearch Profile](https://github.com/user-attachments/assets/5b35036f-301a-44aa-88cc-144fe88c3244)
+
 ![Devsearch Home](https://github.com/user-attachments/assets/d1fc0092-34d1-4b8b-83c0-a450cea6cab1)
 ![DevSearch Projects](https://github.com/user-attachments/assets/0e53fcb1-0907-4fbc-98e9-c155826b6b64)
 
